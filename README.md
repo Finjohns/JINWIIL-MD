@@ -96,7 +96,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 </details>
 
 
- ### ✧✧ Follow this Tutorial for CASEYRHOES MD  free and safe Deployment
+ ### ✧✧ Follow this Tutorial for  𝐉𝚰𝚴𝐖𝚰𝚰𝐋 𝚯𝚴𝐆𝚰𝚴𝐉𝚯 🕷️🕸️  free and safe Deployment
 
   <a href="https://youtu.be/pcZHnf-_YUU?si=FXZuZlNKpqCfawhK"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/pcZHnf-_YUU?si=FXZuZlNKpqCfawhK" /><br>
      
@@ -150,6 +150,6 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 ## License
 
-[Apache LICENCE](https://github.com/caseyweb/Jinwiil-MD-v2/blob/main/LICENSE)
+[Apache LICENCE](https://github.com//Jinwiil-MD-/blob/main/LICENSE)
 
 Copyright (c) 2024 JINWIIL MD V2
