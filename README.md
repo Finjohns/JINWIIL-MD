@@ -40,8 +40,8 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ### Setup
 <div align="center">
-    <a href="https://github.com/caseyweb/CASEYRHODES_MD-V2/fork">
-        <img title="Charity-MD-v2" src="https://img.shields.io/badge/FORK%20Charity%20Md-3498DB?style=for-the-badge&logo=stackshare" />
+    <a href="https://github.com/finjohns/JINWIIL-MD/fork">
+        <img title="JINWIIL-MD" src="https://img.shields.io/badge/FORK%20Jinwiil%20Md-3498DB?style=for-the-badge&logo=stackshare" />
     </a>
 </div>
 
@@ -82,7 +82,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
       
    💫IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
-  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/caseyweb/CHARITY-MD-V2"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/finjohns/JINWIIL-MD"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
   
 
 
