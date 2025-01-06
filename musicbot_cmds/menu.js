@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-> *CHARITY XMD AVAILABLE MENUS* 
+> *JINWILL XMD AVAILABLE MENUS* 
 ╭─────────────────
 │❍╭─────────────
 │❍│▸ *MENU* 
@@ -63,7 +63,7 @@ let menuMsg = `
 ╰────────────···▸▸ \n`
     }
 
-    menuMsg += `> 𝙼𝙰𝙳𝙴 𝙴𝙰𝚂𝚈 𝙱𝚈 𝙲𝙰𝚂𝙴𝚈𝚁𝙷𝙾𝙳𝙴𝚂🍀
+    menuMsg += `> 𝙼𝙰𝙳𝙴 𝙴𝙰𝚂𝚈 𝙱𝚈 𝙹𝙸𝙽𝚆𝙸𝙻𝙻🍀
 `;
 
    var lien = mybotpic();
