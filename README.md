@@ -5,7 +5,7 @@
 
 <div align="center">
 
-| [![ 𝐉𝚰𝚴𝐖𝚰𝚰𝐋 𝚯𝚴𝐆𝚰𝚴𝐉𝚯 🕷️🕸️ TECH](https://github.com/finjohns.png?lenght=50width=50)](https://github.com/finjohns)|
+| [![ 𝐉𝚰𝚴𝐖𝚰𝚰𝐋 𝚯𝚴𝐆𝚰𝚴𝐉𝚯 🕷️🕸️ TECH](https://files.catbox.moe/6d4rll.jpg?lenght=50width=50)](https://github.com/finjohns)|
 |----|
 
 
