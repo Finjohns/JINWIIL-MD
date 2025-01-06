@@ -1,161 +1,108 @@
-# JINWIIL-MD-V2
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+JINWIIL MD❤️;Multi+Device+Whatsapp+Bot;" alt="Typing SVG" /></a>
-  
-
-<div align="center">
-
-| [![ 𝐉𝚰𝚴𝐖𝚰𝚰𝐋 𝚯𝚴𝐆𝚰𝚴𝐉𝚯 🕷️🕸️ TECH](https://files.catbox.moe/6d4rll.jpg?lenght=10width=30)](https://github.com/finjohns)|
-|----|
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines=AND+WELCOME+TO+THIS+REPO!)](https://git.io/typing-svg)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=FORK+AND+MAYBE+GIVE+US+A+STAR🌟)](https://git.io/typing-svg)
+## ✅𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 100% 𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔💯
 
----
-
-> [CAUTION]
->
-> This bot is not created nor endorsed by WhatsApp. Your account might be banned. Be careful not to cause spam.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg) 
 
 
 
-## FEATURES
-This bot is a modification of the predecessor ***`charity-md`*** but we changed the module to commonJs. It has group management features, some media commands, image manipulation commands as well as AI and many other features incorporated.
 
-Our AI features use random APIs to run, so sometimes they may be down.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐄𝐍𝐙𝐎+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐍𝐙𝐎)](https://git.io/typing-svg) 
 
-## SET-UP
+<p align="centre"><img src="https://i.ibb.co/DQSVR3q/1680859352-1290-x-2796.jpg" width="500" height="500" />
 
 
-## `BUTTON MENU SETUP`
 
 
-## DEVELOPED BY 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 🌟
-
----
-
-## CREATE YOUR FORK
-
-### Setup
-<div align="center">
-    <a href="https://github.com/caseyweb/CASEYRHODES_MD-V2/fork">
-        <img title="Charity-MD-v2" src="https://img.shields.io/badge/FORK%20Charity%20Md-3498DB?style=for-the-badge&logo=stackshare" />
-    </a>
-</div>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
----
-### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 1
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐄𝐍𝐙𝐎 𝐌𝐃 𝐁𝐎𝐓 
+
+
 <p align="center">
-<a href="https://caseypair-82ee86d1ac4f.herokuapp.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-blue?style=for-the-badge&logo=render"></a>
-<p/>
+<a href="https://github.com/ENZOTECH2/followers"><img title="Followers" src="https://img.shields.io/github/followers/ENZOTECH2?color=blue&style=flat-square"></a>
+<a href="https://github.com/ENZOTECH2/ENZO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ENZOTECH2/ENZO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/ENZOTECH2/ENZO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ENZOTECH2/ENZO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/ENZOTECH2/ENZO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/ENZOTECH2/ENZO-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/ENZOTECH2/ENZO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+</p>
 
+ <p align="center"><img src="https://profile-counter.glitch.me/{ENZO-MD}/count.svg" alt="Enzo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{enzo}/count.svg" /></p>
+
+
+
+
+
+
+## HOW TO GET ENZO MD BOT
+
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
 
-### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2
-<p align="center">
-<a href="https://caseypair-82ee86d1ac4f.herokuapp.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-darkblue?style=for-the-badge&logo=render"></a>
-<p/>  
+  
+   
+   <a href="https://github.com/ENZOTECH2/ENZO-MD/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
 
 
-### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 3
-<p align="center">
-<a href="https://caseypair-82ee86d1ac4f.herokuapp.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-darkblue?style=for-the-badge&logo=render"></a>
-<p/>  
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+ 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
+ 
 
 
+  <a href="https://enzo-md-sessions-generator-1-b158.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
-- Then `Go-to WhatsApp > Three dots > Linked Devices`
-   - You will get a session ID in your WhatsApp. Copy it.
+  
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
-## Heroku Setup ##
 
+ 
+  
+
+ 
+## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
 
    🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
    
-   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=blue&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
+   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
+
+   ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
+
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/ENZOTECH2/ENZO-MD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
-
-      
-   💫IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
-
-  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/caseyweb/CHARITY-MD-V2"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-  
-
-
--***`Fill in all the required variables and deploy the bot.`***
-
--***`If you plan to host the bot in your server, vps, locally or panel you can carefully edit the file settings.js`***
-
-
-<br>
-
-</details>
-
-
- ### ✧✧ Follow this Tutorial for CASEYRHOES MD  free and safe Deployment
-
-  <a href="https://youtu.be/pcZHnf-_YUU?si=FXZuZlNKpqCfawhK"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/pcZHnf-_YUU?si=FXZuZlNKpqCfawhK" /><br>
-     
-# Credits
-
-Thanks to...
-
-<div align="center">
-
-
-<p align="center">  
-  <a href="https://www.youtube.com/@Caseyrhodes01">   
-    <img src="https://telegra.ph/file/a2404cf4912a775f17164.jpg"width="500" height="500"/>
-</p>
-</br>
-</br>
-</br>
-     
-* [`CASEYRHODES`](https://github.com/caseyweb) ***Author, Owner***
-
-* [`KEITHKEIZAH`](https://github.com/caseyrhodes01) ***For fixing music download***
-* [`PALVINKIBET`](https://github.com/WhiskeySockets/Baileys) ***Baileys Library***
-* [`WaSocket Discord`](https://discord.gg/WeJM5FP9GG) ***Maintaining the bot libs***
-
-
-
----
-
-***Tap the WhatsApp logo below to join our channel and group for updates***
-
-<p align="center">
-  <a aria-label="Join our channel for updates" href="Ihttps://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-
-<p align="center">
-  <a aria-label="Join our channel for updates" href="https://chat.whatsapp.com/J5mZshoJ3fWI8yiPSo0M93" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-
-
-**GET In Touch with The Owner**
-
-- <a href="https://wa.me/254769365617" target="_blank">
-    <img alt="CLICK HERE" src="https://img.shields.io/badge/ On WhatsApp  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-Modifying the bot structure is at your own risk. We won't offer technical support if error occur.
+## FINAL REMARKS ON MY REPO (STATS)
 
-
-## License
-
-[Apache LICENCE](https://github.com/caseyweb/Jinwiil-MD-v2/blob/main/LICENSE)
-
-Copyright (c) 2024 JINWIIL MD V2
+![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=Enzotech&repo=ENZO-MD&show_owner=true&theme=dark)
 
 
 
 
 
 
+
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## CONTACT ENZOTECH HERE
+  DM FOR SERIOUS BUSINESS
+
+   <a href="https://github.com/ENZOTECH2/ENZO-INFO"><img title="CONTACT-ENZO" src="https://img.shields.io/badge/CONTACT-ENZO-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
