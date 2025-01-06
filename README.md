@@ -1,11 +1,11 @@
-# CHARITY-MD-V2
+# JINWIIL-MD-V2
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+CHARITY MD❤️;Multi+Device+Whatsapp+Bot;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+JINWIIL MD❤️;Multi+Device+Whatsapp+Bot;" alt="Typing SVG" /></a>
   
 
 <div align="center">
 
-| [![CASEYRHODES TECH](https://github.com/caseyweb.png?lenght=50width=50)](https://github.com/caseyweb)|
+| [![ 𝐉𝚰𝚴𝐖𝚰𝚰𝐋 𝚯𝚴𝐆𝚰𝚴𝐉𝚯 🕷️🕸️ TECH](https://github.com/finjohns.png?lenght=50width=50)](https://github.com/finjohns)|
 |----|
 
 
