@@ -55,7 +55,7 @@
    <br>
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/finjohns/JINWIIL-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=heroku'/></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Finjohns/JINWIIL-MD/edit/main/README.md"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 #### DEPLOY ON RAILWAY
