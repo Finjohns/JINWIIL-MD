@@ -8,9 +8,9 @@
 <up A simple WhatsApp User Bot Coded By JINWIIL ❤️</u>
 </p>
 <p align="center">
-<img src="https://files.catbox.moe/yedfbr.jpg"/>       
+<img src="https://files.catbox.moe/zi39kk.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+NHEZHO-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+JINWIIL ❤️+MD+TECHS;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+JINWIIL-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+JINWIIL ❤️+MD+TECHS;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-JINWIIL_TECH-red.svg?style=for-the-badge&logo=github"></a>
@@ -142,7 +142,7 @@
    <br>
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/caseyweb/NHEZHO-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=heroku'/></a>
+<a href='https://heroku.com/deploy?template=https://github.com/finjohns/JINWIIL-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=heroku'/></a>
 
 
 #### DEPLOY ON RAILWAY
@@ -173,7 +173,7 @@
 <br>
 
 * [`GOD`](https://github.com/Popkiddevs)
-* ## Contact Dev of CASEYRHODES 🤪
-* [`CASEYRHODES`](https://wa.me/254112192119?text=Hi+Bro+Rayan+Big+Fan😍)
-* [`CASEYRHODES`](https://wa.me/254112192119?text=Hi+Bro+Giffareno+Big+Fan😍)
+* ## Contact Dev of JINWIIL 🤪
+* [`CASEYRHODES`](https://wa.me/254769365617?text=Hi+Bro+IMA+Big+Fan😍)
+* [`CASEYRHODES`](https://wa.me/254769365617?text=Hi+Bro+Giffareno+Big+Fan😍)
  </details>
