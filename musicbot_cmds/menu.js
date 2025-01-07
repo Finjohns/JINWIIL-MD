@@ -44,13 +44,13 @@ const date = moment().format('DD/MM/YYYY');
 │❍│▸ *PLUGINS* : ${cm.length} 
 │❍│▸ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❍│▸ *SAVER* : ${os.platform()}
-│❍│▸ *THEME* : *CHARITY XMD THEMES*
+│❍│▸ *THEME* : *JINWIIL XMD THEMES*
 │❍╰──────────────
 ╰──────────────────\n`;
     
 let menuMsg = `
 
- *𝙲𝙰𝚂𝙴𝚈𝚁𝙷𝙾𝙳𝙴𝚂 𝚃𝙴𝙲𝙷🍀*${readmore}
+ *JINWIIL 𝚃𝙴𝙲𝙷🍀*${readmore}
 `;
 
     for (const cat in coms) {
